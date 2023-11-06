@@ -19,7 +19,8 @@ To write a C program to implement Page Replacement technique using FIFO
 8.Print the number of page faults.
 
 9.Stop the program.
-## PROGRAM:
+
+PROGRAM:
 ```
 #include<stdio.h>
 int main()
@@ -57,15 +58,18 @@ int main()
     printf("\nPage Fault Is %d", count);
 }
 ```
-## OUTPUT:
-![image](https://github.com/naveenaakumarasamy/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/113497406/51e0a09f-d528-4c96-85ec-4320eeb26f72)
-## RESULT:
+OUTPUT:
+
+![image](https://github.com/naveenaakumarasamy/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/113497406/11a0b434-9936-4194-beb5-5b6d4fb3d527)
+
+RESULT:
+
 Thus the implementation of LRU page replacement is successfully executed.
+
 
 # PAGE REPLACEMENT ALGORITHM (OPR)
 ## AIM:
 To write a C program to implement Page Replacement technique using OPR
-
 ## ALGORITHM:
 1.Start the program.
 
@@ -80,7 +84,7 @@ To write a C program to implement Page Replacement technique using OPR
 6.Print the number of hits and misses.
 
 7.Stop the program.
-## PROGRAM:
+PROGRAM:
 ```
 #include <stdio.h>
 int main() {
@@ -143,7 +147,10 @@ int main() {
     printf("\nThe no of page faults is %d", c);
 }
 ```
-## OUTPUT:
-![image](https://github.com/naveenaakumarasamy/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/113497406/0e5a8503-e9ed-4be3-b61f-cd3015bc22a7)
-## RESULT:
+OUTPUT:
+
+![image](https://github.com/naveenaakumarasamy/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/113497406/23df1c77-cd24-4423-9297-c1213d7be4e9)
+
+RESULT:
+
 Thus the implementation of OPR page replacement is successfully executed.
