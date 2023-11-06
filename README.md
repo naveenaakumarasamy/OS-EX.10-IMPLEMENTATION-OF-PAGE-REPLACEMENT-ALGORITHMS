@@ -1,7 +1,6 @@
 # EX.10 IMPLEMENTATION OF PAGE REPLACEMENT ALGORITHMS
 ## AIM:
 To write a C program to implement Page Replacement technique using FIFO
-
 ## ALGORITHM:
 1.Start the program.
 
